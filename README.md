@@ -1,5 +1,5 @@
-# verify_email_golan
-g### 邮箱验证golang的实现
+# verify_email_golang
+### 邮箱验证golang的实现
 
 ##### 流程：
 
